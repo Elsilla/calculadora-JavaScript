@@ -1,2 +1,2 @@
 # calculadora-JavaScript
-actividad de migrar calculadora de Python a JavaScript
+actividad de migrar claculadora de Python a JavaScript
